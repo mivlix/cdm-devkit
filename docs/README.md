@@ -12,15 +12,15 @@ This folder contains some useful information about various `cdm-devkit` parts.
 
 ### Guides
 
-1. [Installing](./en/guides/1-installing.md)
-2. [Extension overview](./en/guides/2-extension-overview.md)
-3. [Setting up project](./en/guides/3-setting-up-project.md)
-4. [Debugging](./en/guides/4-debugging.md)
-5. [Setting up Logisim](./en/guides/5-setting-up-logisim.md)
-6. [Debugging in Logisim](./en/guides/6-debugging-in-logisim.md)
-7. [Using CLI](./en/guides/7-using-cli.md)
-8. [Using external build system](./en/guides/8-external-build-systems.md)
-9. [Using Python environment](./en/guides/9-using-python-environments.md)
+1. [Installing](./guides/en/1-installing.md)
+2. [Extension overview](./guides/en/2-extension-overview.md)
+3. [Setting up project](./guides/en/3-setting-up-project.md)
+4. [Debugging](./guides/en/4-debugging.md)
+5. [Setting up Logisim](./guides/en/5-setting-up-logisim.md)
+6. [Debugging in Logisim](./guides/en/6-debugging-in-logisim.md)
+7. [Using CLI](./guides/en/7-using-cli.md)
+8. [Using external build system](./guides/en/8-external-build-systems.md)
+9. [Using Python environment](./guides/en/9-using-python-environments.md)
 
 ### Processors documentation
 
@@ -52,15 +52,15 @@ This folder contains some useful information about various `cdm-devkit` parts.
 
 ### Гайды
 
-1. [Установка](./ru/guides/1-installing.md)
-2. [Обзор расширения](./ru/guides/2-extension-overview.md)
-3. [Настройка проекта](./ru/guides/3-setting-up-project.md)
-4. [Дебаг](./ru/guides/4-debugging.md)
-5. [Настройка Logisim](./ru/guides/5-setting-up-logisim.md)
-6. [Дебаг в Logisim](./ru/guides/6-debugging-in-logisim.md)
-7. [Использование инструментов командной строки](./ru/guides/7-using-cli.md)
-8. [Использование внешней системы сборки](./ru/guides/8-external-build-systems.md)
-9. [Использование среды Python](./ru/guides/9-using-python-environments.md)
+1. [Установка](./guides/ru/1-installing.md)
+2. [Обзор расширения](./guides/ru/2-extension-overview.md)
+3. [Настройка проекта](./guides/ru/3-setting-up-project.md)
+4. [Дебаг](./guides/ru/4-debugging.md)
+5. [Настройка Logisim](./guides/ru/5-setting-up-logisim.md)
+6. [Дебаг в Logisim](./guides/ru/6-debugging-in-logisim.md)
+7. [Использование инструментов командной строки](./guides/ru/7-using-cli.md)
+8. [Использование внешней системы сборки](./guides/ru/8-external-build-systems.md)
+9. [Использование среды Python](./guides/ru/9-using-python-environments.md)
 
 ### Processors documentation
 
