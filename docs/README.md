@@ -8,23 +8,23 @@ This folder contains some useful information about various `cdm-devkit` parts.
 ## Outline
 
 ### Quickstart
-- [Quickstart](./quickstart.md)
+- [Quickstart](./quickstart-en.md)
 
 ### Guides
 
-1. [Installing](./guides/1-installing.md)
-2. [Extension overview](./guides/2-extension-overview.md)
-3. [Setting up project](./guides/3-setting-up-project.md)
-4. [Debugging](./guides/4-debugging.md)
-5. [Setting up Logisim](./guides/5-setting-up-logisim.md)
-6. [Debugging in Logisim](./guides/6-debugging-in-logisim.md)
-7. [Using CLI](./guides/7-using-cli.md)
-8. [Using external build system](./guides/8-external-build-systems.md)
-9. [Using Python environment](./guides/9-using-python-environments.md)
+1. [Installing](./en/guides/1-installing.md)
+2. [Extension overview](./en/guides/2-extension-overview.md)
+3. [Setting up project](./en/guides/3-setting-up-project.md)
+4. [Debugging](./en/guides/4-debugging.md)
+5. [Setting up Logisim](./en/guides/5-setting-up-logisim.md)
+6. [Debugging in Logisim](./en/guides/6-debugging-in-logisim.md)
+7. [Using CLI](./en/guides/7-using-cli.md)
+8. [Using external build system](./en/guides/8-external-build-systems.md)
+9. [Using Python environment](./en/guides/9-using-python-environments.md)
 
 ### Processors documentation
 
-- [Assembly code templates](./assembly-templates.md)
+- [Assembly code templates](./assembly-templates-en.md)
 
 #### CdM-16
 
@@ -48,23 +48,23 @@ This folder contains some useful information about various `cdm-devkit` parts.
 ## Содержимое
 
 ### Быстрый старт
-- [Быстрый старт](./quickstart.md)
+- [Быстрый старт](./quickstart-ru.md)
 
 ### Гайды
 
-1. [Установка](./guides/1-installing.md)
-2. [Обзор расширения](./guides/2-extension-overview.md)
-3. [Настройка проекта](./guides/3-setting-up-project.md)
-4. [Дебаг](./guides/4-debugging.md)
-5. [Настройка Logisim](./guides/5-setting-up-logisim.md)
-6. [Дебаг в Logisim](./guides/6-debugging-in-logisim.md)
-7. [Использование инструментов командной строки](./guides/7-using-cli.md)
-8. [Использование внешней системы сборки](./guides/8-external-build-systems.md)
-9. [Использование среды Python](./guides/9-using-python-environments.md)
+1. [Установка](./ru/guides/1-installing.md)
+2. [Обзор расширения](./ru/guides/2-extension-overview.md)
+3. [Настройка проекта](./ru/guides/3-setting-up-project.md)
+4. [Дебаг](./ru/guides/4-debugging.md)
+5. [Настройка Logisim](./ru/guides/5-setting-up-logisim.md)
+6. [Дебаг в Logisim](./ru/guides/6-debugging-in-logisim.md)
+7. [Использование инструментов командной строки](./ru/guides/7-using-cli.md)
+8. [Использование внешней системы сборки](./ru/guides/8-external-build-systems.md)
+9. [Использование среды Python](./ru/guides/9-using-python-environments.md)
 
 ### Processors documentation
 
-- [Шаблоны ассемблерного кода](./assembly-templates.md)
+- [Шаблоны ассемблерного кода](./assembly-templates-ru.md)
 
 #### CdM-16
 
