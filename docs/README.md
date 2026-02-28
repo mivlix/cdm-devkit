@@ -1,7 +1,7 @@
+# Documentation / Документация
+
 <details>
 <summary>🇬🇧 English</summary> 
-# Documentation
-
 This folder contains some useful information about various `cdm-devkit` parts.
 
 ## Outline
@@ -41,8 +41,6 @@ This folder contains some useful information about various `cdm-devkit` parts.
 
 <details>
 <summary>🇷🇺 Русский</summary>
-# Документация
-
 Эта папка содержит полезную информацию про различные части `cdm-devkit`.
 
 ## Содержимое
